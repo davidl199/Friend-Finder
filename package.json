@@ -1,5 +1,5 @@
 {
-  "name": "Friend-Finder",
+  "name": "FriendFinder",
   "version": "1.0.0",
   "description": "Friend Finder Application",
   "main": "server.js",
